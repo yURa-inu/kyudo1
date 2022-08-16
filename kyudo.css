@@ -6,6 +6,7 @@
 header {
   width: 100%;
   height: 150px;
+  background-color: bisque;
 }
 
 h1 {
@@ -16,6 +17,19 @@ h1 {
 main {
   width: 100%;
   height: 2000px;
+  background-color: brown;
+}
+
+.kyudo-info {
+  background-color: white;
+}
+
+.info {
+  background-color: blue;
+}
+
+.hassetu {
+  background-color: aqua;
 }
 
 footer {
