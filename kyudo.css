@@ -20,15 +20,27 @@ main {
   background-color: brown;
 }
 
-.kyudo-info {
+.main-visual {
+  height: 500px;
+  width: 100%;
+  background-color: burlywood;
+}
+
+.info-box {
   background-color: white;
+  height: 1500px;
 }
 
 .info {
+  height: 750px;
+  width: 100%;
   background-color: blue;
+  
 }
 
 .hassetu {
+  height: 750px;
+  width: 100%;
   background-color: aqua;
 }
 
